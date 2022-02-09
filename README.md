@@ -12,7 +12,6 @@
     "sketch": "main.ino"
 }`
 
-Where:
 **port**: port serial to connect.
 
 **board**: arduino board (example arduino uno).
