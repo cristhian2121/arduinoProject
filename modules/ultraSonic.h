@@ -1,6 +1,6 @@
 // const pins
-const int trigPin;
-const int echoPin;
+int trigPin;
+int echoPin;
 const int flag = 13;
 
 // variable
