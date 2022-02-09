@@ -4,7 +4,7 @@
 
 1. Add extension [Arduino for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 
-2. Add the config to vscode:
+2. Add the config to vscode in root project, *.vscode/arduino.json*:
 `{
     "port": "/dev/ttyACM0",
     "board": "arduino:avr:uno",
